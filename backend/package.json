@@ -9,7 +9,7 @@
     "build": "npm i",
     "start": "node server.js"
   },
-  "author": "Raja Kumar",
+  "author": "Raja kumar",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
